@@ -1,0 +1,141 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F3CD39A6-1C6F-4768-9951-3AC055F26BAE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "25CD1B0D-C80B-4316-8715-B2F2ED674274",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E6FF70F-5AA2-4B95-BEE9-464C17ACD923",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "49DC3CD3-8DB8-47E5-90BB-CF3501305BCB",
+    "height": 667,
+    "width": 375,
+    "x": 4201,
+    "y": 334
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "6ADB76D4-2DB0-4170-8B9B-CC7EA34A8C9A",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AA41F86B-D128-4231-B7BE-460CC33C6E12",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5D577540-B161-4168-BF8B-132C92D15AE7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E8A5C9F3-CACB-4ABF-B501-B2B7330540EA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "72C4F68F-5926-425F-9665-FE3163F16844"
+    },
+    {
+      "class": "group",
+      "id": "4C516AA8-8FCB-4E44-8A93-1F99B83B7593"
+    },
+    {
+      "class": "group",
+      "id": "B4C22ED2-9664-40A5-BC39-6A4A865DF38B"
+    },
+    {
+      "class": "group",
+      "id": "9C4AF483-B7B7-4FBE-B029-6BB86802B789"
+    },
+    {
+      "class": "group",
+      "id": "E184EE39-AC78-4163-9058-98E451D499DA"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "do_objectID": "992B297F-9D94-44B7-B559-239F0DB087B7",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 3.333333333333333,
+    "guttersOutside": true,
+    "horizontalOffset": 10,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 355
+  },
+  "name": "iPhone 8",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "337C9261-E19C-48D3-919A-B17C976D21C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A5027724-A161-4783-BB27-50C502BE025A",
+    "guides": [
+    ]
+  }
+}

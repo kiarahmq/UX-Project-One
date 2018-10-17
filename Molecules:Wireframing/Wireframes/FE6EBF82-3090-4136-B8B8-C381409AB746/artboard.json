@@ -1,0 +1,149 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "FE6EBF82-3090-4136-B8B8-C381409AB746",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 667,
+    "width": 375,
+    "x": 2776,
+    "y": 334
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E57C47FF-0242-4E5E-87B4-D383ABA0A6A1"
+    },
+    {
+      "class": "text",
+      "id": "FAE45816-29D7-4FE6-9906-2803AA814872"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2444D3FE-16D3-4D6C-A161-D12E2B6DDDDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22B63E7F-1BBB-4975-BFF3-E50B66C68206"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "48750CBF-2CD5-4145-9B8E-78DD2BE4AF3E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FF3CE6C9-A660-4C53-B94E-E32F5FC7423D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "677083C7-3904-475D-AC8B-308B1BE0F95B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4B135E56-3DAC-471C-B78A-9BEE393E0030"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D0259E38-4AD1-4CEC-AC4C-D6CC2555F8F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7DE548CA-607F-454A-B59B-1CB4F5A21EBE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1973A30D-547C-48D7-B5A0-E05B564590E0"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 26.25,
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 3.333333333333333,
+    "guttersOutside": true,
+    "horizontalOffset": 10,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 355
+  },
+  "name": "iPhone 8 Copy 4",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

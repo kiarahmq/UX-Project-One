@@ -1,0 +1,77 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "B4C22ED2-9664-40A5-BC39-6A4A865DF38B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "094822FB-EBFC-4C8D-A902-6EA1102C24B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "740F1FC2-7E93-4B8C-8B60-53191F0652BC",
+    "height": 16,
+    "width": 175,
+    "x": 100,
+    "y": 619
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E20E77C-512C-415C-ADBD-CB4EF494CEB5"
+    },
+    {
+      "class": "text",
+      "id": "BD6FBC2A-5169-463B-AE31-60906B66E778"
+    }
+  ],
+  "name": "molecule / small print copy",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27492E68-8540-4C51-AA9B-0CCB67A8A6F9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "backgroundOpacity": 0,
+      "closeOnClickOutside": 1,
+      "componentType": "SRLink",
+      "fixOverlayPosition": 1,
+      "gesture": 0,
+      "linkType": 0,
+      "maintainScrollPositionAfterGesture": 0,
+      "maintainScrollPositionAfterRedirect": 0,
+      "openURLInNewWindow": 0,
+      "overlayPosition": 0,
+      "overlayTransition": 0,
+      "redirectAfter": 0,
+      "reverseTransitionOnClose": 1,
+      "scrollToPosition": 0,
+      "smoothScrolling": 0,
+      "stayOnTargetScreen": 0,
+      "targetArtboardID": "CDF555C4-35FA-42D2-A148-62702AD768D9",
+      "transition": 0
+    }
+  }
+}

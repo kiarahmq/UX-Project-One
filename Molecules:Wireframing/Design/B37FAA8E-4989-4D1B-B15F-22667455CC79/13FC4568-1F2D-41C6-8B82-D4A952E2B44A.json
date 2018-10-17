@@ -1,0 +1,80 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "13FC4568-1F2D-41C6-8B82-D4A952E2B44A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "32D27D0D-61CF-4E94-AC41-91974BC32457",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BEAD2D80-591A-4947-BF1E-0BD2A6E25500",
+    "height": 30,
+    "width": 174,
+    "x": 101,
+    "y": 219
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / submit button",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34D68EC0-A895-4AD0-B5C5-EF9C42BC4491",
+      "overrideName": "C202B8DD-C91B-489C-AFE4-90A0D83ACAA3_stringValue",
+      "value": "LOG IN"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "00B4D707-591F-49E6-A6A1-E04B276F989A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0.8,
+          "green": 0.8,
+          "red": 0.7843137254901961
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": false,
+        "offsetX": 0,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2541893E-D29D-482D-BEE2-610EE54E1EBE",
+  "userInfo": {
+  },
+  "verticalSpacing": 0
+}

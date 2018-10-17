@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "F75E0953-D39F-44B5-A38E-16553653F500",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7DECAEC-5361-4319-9460-5AC7C08BD1FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AAB866C-1FE0-4DC5-AF34-850CF88325FB",
+    "height": 15,
+    "width": 173,
+    "x": 101,
+    "y": 334
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4367DC94-77EE-4F9D-88DD-4D4BCF030891"
+    }
+  ],
+  "name": "molecule / small print",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6F31DD07-FD92-4720-901F-76F35FDD9402",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+  }
+}

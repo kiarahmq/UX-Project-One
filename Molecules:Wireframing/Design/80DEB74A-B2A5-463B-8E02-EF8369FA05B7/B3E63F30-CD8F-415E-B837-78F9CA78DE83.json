@@ -1,0 +1,56 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "do_objectID": "B3E63F30-CD8F-415E-B837-78F9CA78DE83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "27F140F2-5F0C-485D-A115-89C7E8B329C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A1987ECA-0136-42E6-A897-2227A5F12500",
+    "height": 12,
+    "width": 69,
+    "x": 162,
+    "y": 221
+  },
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Molecule / bubble option",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CECAF85B-33A1-4EF2-BF25-D5B135B9DA40",
+      "overrideName": "837D4C71-CCCD-4A97-8912-CF21CBCF68F7_stringValue",
+      "value": "Male"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D92B4BE-707C-426B-A08D-CD702B0D8D46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1BB15880-1EC2-43E3-B738-7D9AF7C996AA",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,55 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "do_objectID": "E184EE39-AC78-4163-9058-98E451D499DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0E3B6B44-4545-434F-912E-9C2D0755C9FA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F1E7D5E2-066A-4FE4-A5FA-609E10FD19AE",
+    "height": 32,
+    "width": 175,
+    "x": 100,
+    "y": 223
+  },
+  "hasClickThrough": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "EBAFF3A2-87A7-4E2E-AFF4-54C5E06D925D"
+    },
+    {
+      "class": "text",
+      "id": "A9F720C0-CC29-42FC-97DE-EC82E31FF7A6"
+    }
+  ],
+  "name": "molecule / header",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F40E50C9-7D3B-4A61-96F4-E83BA4222260",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "do_objectID": "ABAC92BF-9094-4171-A84E-627E4B487511",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -704,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "B37FAA8E-4989-4D1B-B15F-22667455CC79"
+    },
+    {
+      "class": "artboard",
+      "id": "80DEB74A-B2A5-463B-8E02-EF8369FA05B7"
+    },
+    {
+      "class": "artboard",
+      "id": "C460A388-953F-46AD-A5EA-942FA31CB4C4"
+    },
+    {
+      "class": "artboard",
+      "id": "1AB1ED5F-57A1-442F-868E-C0010C835A68"
+    },
+    {
+      "class": "artboard",
+      "id": "5C68C846-FCAA-40E5-A5D2-D65B21DDE8D0"
+    }
+  ],
+  "name": "Design",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invision.prototype": {
+      "lastUsedGestureID": 0
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -274,
+    "guides": [
+    ]
+  }
+}
